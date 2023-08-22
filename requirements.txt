@@ -40,3 +40,6 @@ urllib3==1.26.15
 waybackpy
 xattr
 yt-dlp
+progress
+progressbar2
+httplib2shim
