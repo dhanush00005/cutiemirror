@@ -43,3 +43,4 @@ yt-dlp
 progress
 progressbar2
 httplib2shim
+pyrogram>=2
